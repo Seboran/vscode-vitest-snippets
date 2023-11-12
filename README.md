@@ -1,4 +1,4 @@
-# Vitest Snippets
+# Vitest Snippets Seboran
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/seboran.vitest-snippets-seboran.svg)](https://marketplace.visualstudio.com/items?itemName=seboran.vitest-snippets-seboran)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/seboran.vitest-snippets-seboran.svg)](https://marketplace.visualstudio.com/items?itemName=seboran.vitest-snippets-seboran)
@@ -49,11 +49,11 @@ ext install seboran.vitest-snippets-seboran
 
 ### Extension Manager
 
-Open the extension manager with <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>X</kbd> (Win/Linux) or <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>X</kbd> (macOS), search for `Vitest Snippets` and click on `[Install]` button.
+Open the extension manager with <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>X</kbd> (Win/Linux) or <kbd>cmd</kbd>+<kbd>shift</kbd>+<kbd>X</kbd> (macOS), search for `Vitest Snippets Seboran` and click on `[Install]` button.
 
 ### Marketplace
 
-[Vitest Snippets](https://marketplace.visualstudio.com/items?itemName=seboran.vitest-snippets-seboran)
+[Vitest Snippets Seboran](https://marketplace.visualstudio.com/items?itemName=seboran.vitest-snippets-seboran)
 
 ⇧ [Back to menu](#menu)
 
