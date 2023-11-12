@@ -1,7 +1,7 @@
 {
   "name": "vitest-snippets-seboran",
   "description": "VS Code Vitest snippets for JS and TS",
-  "version": "1.7.1",
+  "version": "0.0.3",
   "displayName": "Vitest Snippets",
   "publisher": "seboran",
   "icon": "images/light-icon.png",
