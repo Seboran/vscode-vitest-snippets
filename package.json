@@ -1,5 +1,5 @@
 {
-  "name": "vitest-snippets",
+  "name": "vitest-snippets-seboran",
   "description": "VS Code Vitest snippets for JS and TS",
   "version": "1.7.1",
   "displayName": "Vitest Snippets",
@@ -20,10 +20,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deinsoftware/vscode-vitest-snippets"
+    "url": "https://github.com/seboran/vscode-vitest-snippets-seboran"
   },
   "sponsor": {
-    "url": "https://github.com/sponsors/deinsoftware"
+    "url": "https://github.com/sponsors/seboran"
   },
   "engines": {
     "vscode": "^1.58.0"

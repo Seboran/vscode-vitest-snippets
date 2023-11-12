@@ -1,16 +1,16 @@
 # Vitest Snippets
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/deinsoftware.vitest-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.vitest-snippets)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/deinsoftware.vitest-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.vitest-snippets)
-[![Ratings](https://img.shields.io/visual-studio-marketplace/stars/deinsoftware.vitest-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=deinsoftware.vitest-snippets)
-[![license](https://img.shields.io/github/license/deinsoftware/vscode-vitest-snippets)](LICENSE.md)
-[![Open in VS Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/deinsoftware/vscode-vitest-snippets)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/seboran.vitest-snippets-seboran.svg)](https://marketplace.visualstudio.com/items?itemName=seboran.vitest-snippets-seboran)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/seboran.vitest-snippets-seboran.svg)](https://marketplace.visualstudio.com/items?itemName=seboran.vitest-snippets-seboran)
+[![Ratings](https://img.shields.io/visual-studio-marketplace/stars/seboran.vitest-snippets-seboran.svg)](https://marketplace.visualstudio.com/items?itemName=seboran.vitest-snippets-seboran)
+[![license](https://img.shields.io/github/license/seboran/vscode-vitest-snippets-seboran)](LICENSE.md)
+[![Open in VS Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/seboran/vscode-vitest-snippets-seboran)
 
-![Vitest](https://raw.githubusercontent.com/deinsoftware/vscode-vitest-snippets/main/.github/social/preview.png)
+![Vitest](https://raw.githubusercontent.com/seboran/vscode-vitest-snippets-seboran/main/.github/social/preview.png)
 
 The quick and easy way to create and use Vitest with [VS Code](https://code.visualstudio.com/).
 
-> We also **recommend** installing his complement extension [Testing Library Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.testing-library-snippets)
+> We also **recommend** installing his complement extension [Testing Library Snippets](https://marketplace.visualstudio.com/items?itemName=seboran.testing-library-snippets)
 
 ## Menu
 
@@ -44,7 +44,7 @@ Open the quick launch with <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> (Win/Li
 Paste the following command and press `Enter`:
 
 ```shell
-ext install deinsoftware.vitest-snippets
+ext install seboran.vitest-snippets-seboran
 ```
 
 ### Extension Manager
@@ -53,7 +53,7 @@ Open the extension manager with <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>X</kbd> (W
 
 ### Marketplace
 
-[Vitest Snippets](https://marketplace.visualstudio.com/items?itemName=deinsoftware.vitest-snippets)
+[Vitest Snippets](https://marketplace.visualstudio.com/items?itemName=seboran.vitest-snippets-seboran)
 
 ⇧ [Back to menu](#menu)
 
@@ -250,19 +250,19 @@ Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, 
 
 ### Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [Const & Props Snippets](https://github.com/deinsoftware/vscode-vitest-snippets/tags) on GitHub.
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [Const & Props Snippets](https://github.com/seboran/vscode-vitest-snippets-seboran/tags) on GitHub.
 
 ### Authors
 
 - **Camilo Martinez** [[Equiman](http://github.com/equiman)]
 
-See also the list of [contributors](https://github.com/deinsoftware/vscode-vitest-snippets/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/seboran/vscode-vitest-snippets-seboran/contributors) who participated in this project.
 
 ### Sponsors
 
 If this project helps you, consider buying me a cup of coffee.
 
-[![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-gray?style=flat&labelColor=171515&logo=github&logoColor=white&link=https://github.com/sponsors/deinsoftware)](https://github.com/sponsors/deinsoftware)
+[![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-gray?style=flat&labelColor=171515&logo=github&logoColor=white&link=https://github.com/sponsors/seboran)](https://github.com/sponsors/seboran)
 [![paypal](https://img.shields.io/badge/-PayPal-gray?style=flat&labelColor=00457C&logo=paypal&logoColor=white&link=https://paypal.me/equiman/3)](https://paypal.me/equiman/3)
 
 ### License
