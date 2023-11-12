@@ -3,7 +3,7 @@
   "description": "VS Code Vitest snippets for JS and TS",
   "version": "1.7.1",
   "displayName": "Vitest Snippets",
-  "publisher": "deinsoftware",
+  "publisher": "seboran",
   "icon": "images/light-icon.png",
   "keywords": [
     "vitest",
